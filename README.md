@@ -15,5 +15,7 @@ I mainly do graphic design, however I love making concrete and usefull projects 
 -------------------------
 
 You can reach me on my socials on :
+
 ![Discord](https://i.ibb.co/12z1dcs/iconfinder-91-Discord-logo-logos-4373196-1.png) utopy#1250
-![Twitter](https://i.ibb.co/grdpLmr/iconfinder-square-twitter-317723.png) [@utopyin](https://twitter.com/utopyin)
+
+![Twitter](https://i.ibb.co/F631Txz/iconfinder-2018-social-media-popular-app-logo-twitter-3225183.png) [@utopyin](https://twitter.com/utopyin)
