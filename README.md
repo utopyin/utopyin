@@ -12,10 +12,4 @@ Probote is a discord bot allowing its users to get access to Pronote (french off
 
 I mainly do graphic design, however I love making concrete and usefull projects so programming became almost necessary. Linking these two passions allowed me to make everything myself, such as the graphics for Brawlorg for instance.
 
--------------------------
-
-You can reach me on my socials on :
-
-![Discord](https://i.ibb.co/12z1dcs/iconfinder-91-Discord-logo-logos-4373196-1.png) utopy#1250
-
-![Twitter](https://i.ibb.co/F631Txz/iconfinder-2018-social-media-popular-app-logo-twitter-3225183.png) [@utopyin](https://twitter.com/utopyin)
+![Discord](https://i.ibb.co/X7fD2HW/discord-pub.png) ![Twitter](https://i.ibb.co/kXKzJRC/twitter-pub.png)
