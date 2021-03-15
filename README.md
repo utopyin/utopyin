@@ -6,7 +6,7 @@
 
 ### Probote
 
-Probote is a discord bot allowing its users to get access to Pronote (french official school software) on their servers. The users can link their account to discord by using the website [pronote.fr](https://pronote.fr).
+Probote is a Discord bot allowing its users to get access to Pronote (french official school software) from their Discord servers. The users can link their account to discord by using the website [pronote.fr](https://pronote.fr).
 
 ## About me
 
